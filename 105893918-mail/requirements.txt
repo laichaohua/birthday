@@ -1,4 +1,5 @@
 flask
 flask-mail
 render_template
-Mail, Message
+Mail
+Message
